@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title> All About Me</title>
+
+  </header>
+      <h1>My Personal Webpage</h1>
+      <nav>
+          <p>
+              <a href="#about">About Me</a>
+          </p>
+          <p>
+              <a href="#hobbies">Hobbies</a>
+          </p>
+          <p>
+              <a href="#contact">Contact</a>
+          </p>
+      </nav>
+
+  <body>
+      <h1>Welcome to My Personal Page</h1>
+      <p>Hi! I'm Carvon Everett and this is all about me.</p>
+  </body>
+
+            <main>
+                <section id="about">
+                    <h2>About Me</h2>
+                    <p>I am a new software developer but I have a passion for learning new things. I love learning new technologies and improving my skills.
+                    I am currently learning HTML, CSS, and JavaScript to build web applications. In my free time, I enjoy listening to music, playing sports, and traveling.
+                    I also have a keen interest in photography and capturing beautiful moments.</p>                </section>
+
+                <section id="hobbies">
+                    <h2>Hobbies</h2>
+                    <ul>
+                        <li>Music</li>
+                        <li>Sports</li>
+                        <li>Traveling</li>
+                        <li>Photography</li>
+                    </ul>
+                </section>
+
+                <section id="contact">
+                    <h2>Contact</h2>
+                    <p>You can reach me at: (636)-312-4213 or Email: carvon_everett@insideranken.org</p>
+
+                    <footer>
+                        <p>&copy; 2023 Carvon Everett</p>
+                    </footer>
+
+  </html>
